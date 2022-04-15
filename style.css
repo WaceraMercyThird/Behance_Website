@@ -370,11 +370,10 @@ font-weight: lighter;
     background-color: #d0f0ee;
     padding: 39px;
     margin-left: 10%;
-    margin-bottom: 15%;
-    width: 80%;
-    height: 60vh;
+    margin-bottom: 150px;
+    width: 900px;
+    height: 600PX;
     display: flex;
-    /* align-items: center; */
     justify-content: center;
 }
 .form h2{
@@ -415,8 +414,8 @@ font-weight: lighter;
 }
 .bottom-bar{
     background-color: #eaf8f8;
-    height: 600px;
-    /* margin: 40px; */
+    height: 360px;
+    padding-top: 100px;
 }
 .flow{
     display: flex;
@@ -426,9 +425,10 @@ font-weight: lighter;
 
 .flow ul h5{
     font-size: 18px;
+    margin-left: 6px;
 }
 .flow ul li{
     list-style: none;
-    margin: 10px;
+    margin: 9px;
 }
   
