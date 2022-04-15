@@ -387,7 +387,7 @@ font-weight: lighter;
     display: flex;
    display: inline;
     width: 700px;
-    height: 60px;
+    height: 10vh;
  /* margin-top: 50px; */
     border-radius: 10px;
     border: none;
@@ -403,19 +403,20 @@ font-weight: lighter;
     background-color: #ffffff;
 }
 .btn{
-    margin-right: 10px;
+    margin-right: 1%;
   background-color:  #03bbaf;
   color: #fff;
-  width: 160px;
-  height: 60px;
+  width: 30%;
+  height: 90%;
   border-radius: 10px;
     border: none;
+    font-size: 20px;
 
 }
 .bottom-bar{
     background-color: #eaf8f8;
-    height: 360px;
-    padding-top: 100px;
+    height: 360%;
+    padding-top: 10%;
 }
 .flow{
     display: flex;
@@ -424,11 +425,11 @@ font-weight: lighter;
 }
 
 .flow ul h5{
-    font-size: 18px;
-    margin-left: 6px;
+    font-size: 90%;
+    margin-left: 9%;
 }
 .flow ul li{
     list-style: none;
-    margin: 9px;
+    margin: 10%;
 }
   
