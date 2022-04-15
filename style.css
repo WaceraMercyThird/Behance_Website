@@ -119,8 +119,8 @@
     height: 50vh;
 }
 .fa-solid{
-    font-size: 60px;
-    margin-left: 15%;
+    font-size: 19px;
+    margin-left: 34%;
     margin-top: 3px;
     margin-bottom: 20px;
 }
@@ -207,7 +207,7 @@
 .com{
     margin-left: 230px;
 }
-.fa{
+.fa-quote-left{
     margin-left: 11px;
 }
 .next-com{
