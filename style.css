@@ -367,8 +367,8 @@ font-weight: lighter;
 }
 .form{
    border-radius: 5px;
-    /* background-color: #d0f0ee; */
-    background-color: #0fc7bb;
+    background-color: #d0f0ee;
+    /* background-color: #0fc7bb; */
     padding: 39px;
     margin-left: 10%;
     margin-bottom: 150%;
@@ -426,7 +426,7 @@ font-weight: lighter;
 }
 
 .flow ul h5{
-    font-size: 90%;
+    font-size: 30px;
     margin-left: 9%;
 }
 .flow ul li{
