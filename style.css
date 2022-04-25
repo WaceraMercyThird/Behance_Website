@@ -364,6 +364,7 @@ font-weight: lighter;
 .data{
     background-color: #eaf8f8;
     height: 70vh;
+    /* margin-left: 30%; */
 }
 .form{
    border-radius: 5px;
@@ -372,7 +373,7 @@ font-weight: lighter;
     padding: 39px;
     margin-left: 10%;
     margin-bottom: 150%;
-    width: 70%;
+    width: 79%;
     height: 70vh;
     display: flex;
     justify-content: center;
