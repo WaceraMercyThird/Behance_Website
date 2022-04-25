@@ -96,7 +96,7 @@
 }
 .services{
     width: 100%;
-    height: 170vh;
+    height: 160vh;
     background-color: #eaf8f8;
 }
 .all_boxes{
@@ -107,14 +107,14 @@
     display: flex;
     justify-content: space-around;
     align-items: center;
-    height: 50vh;
+    height: 30vh;
 }
 .upper h2{
-    margin-left: 10%;
-    font-size: 40px;
+    margin-left: 5%;
+    font-size: 240%;
 }
 .upper p{
-    font-size: 17px;
+    font-size: 90%;
     color: #999494;
 }
 .row{
@@ -124,14 +124,14 @@
 }
 .fa-solid{
     color: #0a9999;
-    font-size: 19px;
+    font-size: 120%;
     margin-left: 34%;
-    margin-top: 3px;
-    margin-bottom: 20px;
+    margin-top: 2%;
+    margin-bottom: 10%;
 }
 .flex{
     background-color: #ffffff;
-    margin: 18px;
+    margin: 1%;
     width: 80%;
     border: none;
     padding-top: 30px;
@@ -145,54 +145,50 @@
 }
 .flex p{
     align-items: center;
-    margin-top: 20px;
+    margin-top: 10%;
 }
 
 .bar_branch{
-    background-color: #726e6e;
     display: flex;
     align-items: center;
-
+    background-color: #d6f8f6;
+    margin: 0%;
+    height: 90vh;
     justify-content: space-around;
-    margin: 33px;
+    
+
 }
 .third_sec img{
     background-color: #c5d1dd;
     flex: 1;
 }
-.bar_branch{
-    background-color: #d6f8f6;
-    margin: 0%;
-    height: 400px;
-    justify-content: space-around;
-    
-}
+
 .third_sec img{
     padding: 41px ;
     width: 30vw;
     height: 90vh;
-    margin-top: 100px;
+    margin-top: 40%;
     margin-left: 23%;
     border-radius: 40px;
 }
 .content{
-    margin: 30px,90px,;
+    margin: 30%,90%;
 }
 .content h1{
-  margin-bottom: 30px;
+  margin-bottom: 10%;
     padding: 10px;
-    font-size: 40px;
+    font-size: 250%;
 }
 .paragraph{
-   margin-left: 20px;
+   margin-left: 4%;
    margin-bottom: 70px;
    
 }
 .but{
     background-color: #03bbaf;
     padding: 6px;
-    margin-top: 300px;
-    margin-left: 40px;
+    margin-top: 20%;
+    margin-left: 4%;
     border: none;
 }
 
@@ -203,7 +199,7 @@
 }
 .service-row{
     margin-left: 0%;
-    margin-right: 2px;
+    margin-right: 0.3%;
 }
 .quo{
     display: flex;
@@ -218,25 +214,26 @@
     margin-left: 11px;
 }
 .quote{
-    margin-left: 100px;
+    margin-left: 30%;
 }
 .next-com{
     display: flex;
-    margin-top: 30px;
-    margin-left: -200px;
+    margin-top: 5%;
+    margin-left: -40%;
     color: #0a9999
 
 }
 .flex-1{
-    margin-top: 7px;
-    margin-right: 50px;
+    margin-top: 2%;
+    margin-right: 5%;
     padding: 30px;
+}
+.cover{
+    margin-top: -8%;
 }
 
 .flex-1 h5{
-    /* background-color: #000; */
-font-size: 20px;
-
+font-size: 120%;
 font-weight: 2000px;
 font-family: Arial, Helvetica, sans-serif;
 }
@@ -257,7 +254,7 @@ font-weight: lighter;
     border-radius: 200px;
 }
 .detail{
-    margin-left: 20px;
+    margin-left: 3%;
 }
 .icon h6{
     margin-top: 12px;
@@ -276,11 +273,11 @@ font-weight: lighter;
     
 }
 .profile{
-    margin-left: 23px;
-    margin-top: 11px;
+    margin-left: 5%;
+    margin-top: 1%;
 }
 .pro{
-    margin-top: -3px;
+    margin-top: 1%;
     
 }
 .num{
@@ -294,7 +291,7 @@ font-weight: lighter;
 }
 .service-row2{
     margin-left: 2px;
-    margin-right: 0%;  
+    margin-right: 0.3%;  
 }
 
 .last-sec{
@@ -312,8 +309,8 @@ font-weight: lighter;
     font-size: 15px;
 }
 .first h2{
-    font-size: 40px;
-    margin-left: -100px;
+    font-size: 33px;
+    margin-left: -10%;
 }
 .fisrt p{
     font-size: 17px;
@@ -321,8 +318,8 @@ font-weight: lighter;
 }
 
 .doctor-boxes{
-    margin-top: 30px;
-    margin-left: 18px;
+    margin-top: 3%;
+    margin-left: 3%;
     padding-left: 60px;
     /* background-color: #e7d422; */
     display: flex;
@@ -332,24 +329,23 @@ font-weight: lighter;
 .vet-doctors{
     height: 80vh;
     padding: 20px;
-    margin-top: 20px;
-    margin-left: 5px;
-    margin-bottom: 56px;
+    margin-top: 2%;
+    margin-bottom: 50%;
+    width: 60%;
     /* background-color: #03bbaf; */
-    /* border-radius: 30px; */
 }
 .vet-doctors img{
 
     /* background-color: #86d6d1; */
     /* margin-left: 67px; */
-    width: 260px;
-    height: 280px;
+    width: 100%;
+    height: 67vh;
 }
 .vet-doctors h4{
-    margin-left: 70px;
+    margin-left: 20%;
 }
 .vet-doctors p{
-    margin-left: 80px;
+    margin-left: 20%;
 }
 .image1{
     background-color: #c9f5f8;
@@ -371,18 +367,19 @@ font-weight: lighter;
 }
 .form{
    border-radius: 5px;
-    background-color: #d0f0ee;
+    /* background-color: #d0f0ee; */
+    background-color: #0fc7bb;
     padding: 39px;
     margin-left: 10%;
-    margin-bottom: 150px;
-    width: 900px;
-    height: 600PX;
+    margin-bottom: 150%;
+    width: 70%;
+    height: 70vh;
     display: flex;
     justify-content: center;
 }
 .form h2{
-    margin-left: 100px;
-    margin-top: 30px;
+    margin-left: 10%;
+    margin-top: 6%;
     font-size: 40px;
   
 }
