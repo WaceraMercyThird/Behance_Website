@@ -100,7 +100,7 @@
     background-color: #eaf8f8;
 }
 .all_boxes{
-    margin: 50px;
+    margin: 4%;
 }
 .upper{
     padding-top: 80px;
@@ -141,11 +141,12 @@
 }
 .flex h4{
     margin-left: 20px;
-    font-size: 20px;
+    font-size: 140%;
 }
 .flex p{
     align-items: center;
     margin-top: 10%;
+    font-size: 100%;
 }
 
 .bar_branch{
@@ -153,7 +154,7 @@
     align-items: center;
     background-color: #d6f8f6;
     margin: 0%;
-    height: 90vh;
+    height: 99vh;
     justify-content: space-around;
     
 
@@ -161,9 +162,6 @@
 .third_sec img{
     background-color: #c5d1dd;
     flex: 1;
-}
-
-.third_sec img{
     padding: 41px ;
     width: 30vw;
     height: 90vh;
@@ -171,6 +169,7 @@
     margin-left: 23%;
     border-radius: 40px;
 }
+
 .content{
     margin: 30%,90%;
 }
